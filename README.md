@@ -1,7 +1,7 @@
 # A Photo Sharing Application Using React JS, Firebase And TypeScript
 
 # Live Demo
-[]
+[https://react-firebase-ts-photo-sharing-app.netlify.app/]
 
 ## Getting Started
 
@@ -16,13 +16,13 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/NH-Limon/react-firebase-ts-photo-sharing-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd 
+   cd react-firebase-ts-photo-sharing-app
    ```
 
 3. Install dependencies:
