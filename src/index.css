@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+}
+
+.subtitle {
+  text-align: center;
+  font-weight: bold;
+  color: #2c2020;
+  margin-top: -30px;
+  font-size: 28px;
+}
+
+.loading__text {
+  font-size: 32px;
+  color: #2c2020;
+}
+
+.up_btn {
+  border: none;
+  outline: none;
+  background-color: #ddd;
+  color: rgb(26, 17, 1);
+  padding: 8px 12px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.emoji {
+  font-size: 40px;
+}
